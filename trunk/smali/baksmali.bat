@@ -1,0 +1,1 @@
+java -jar baksmali-1.2.6.jar -o %1 classes.dex
